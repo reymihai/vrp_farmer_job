@@ -3,4 +3,4 @@ In order for this to work add  the item "faina" in vrp/cfg/items.lua
 To modify the price of the item  line 21 in server.lua
 To modify the amount of flour you get from the job line 11 in server.lua
 To modify the amount of time the player has to work modify on line 6, 86 and 100 
-For further information check  https://discord.gg/A4jSwEU 
+For further information check  https://discord.gg/A4jSwEU  https://discord.gg/DZ8jem4
